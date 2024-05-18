@@ -7,25 +7,7 @@
 		"abi": [
 			{
 				"inputs": [],
-				"stateMutability": "nonpayable",
-				"type": "constructor"
-			},
-			{
-				"anonymous": false,
-				"inputs": [
-					{
-						"indexed": false,
-						"internalType": "uint256",
-						"name": "newCount",
-						"type": "uint256"
-					}
-				],
-				"name": "CountIncremented",
-				"type": "event"
-			},
-			{
-				"inputs": [],
-				"name": "getCount",
+				"name": "count",
 				"outputs": [
 					{
 						"internalType": "uint256",
@@ -72,11 +54,11 @@
 	},
 	"sources": {
 		"contracts/Counter.sol": {
-			"keccak256": "0x8123ca1b95ad09326569b183bb0c5a72494010e7ec27b325895734458999e9f5",
+			"keccak256": "0xab2ebb25e58060219f2659384df2c8844858b7c8da703cdfe8de2c7b8593af2a",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://80ef73505f45a8caaf2c477ca70a05da02d7e9e0cb41ffbe77cc69315d875afb",
-				"dweb:/ipfs/QmdbSWax3CJzQbjEzUGZMAaKyDw2MK5D9yoVaPiKTyTkpf"
+				"bzz-raw://ae1d8c4eb9c5908fdc42163aaaa451fcd3102a903bf8326c5e5d968440e9aa38",
+				"dweb:/ipfs/QmUQ4Z1C1moabCzKRqKid3QnWJFMFB5sad88Mm1gXwFc2f"
 			]
 		}
 	},
